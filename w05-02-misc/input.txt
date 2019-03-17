@@ -1,0 +1,4 @@
+welcome to reading files in java
+this is a plain text file
+it has no special encoding
+and lines separated with a newline character
