@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/w04-02-duck-simulator/w04-02-duck-simulator.iml" filepath="$PROJECT_DIR$/w04-02-duck-simulator/w04-02-duck-simulator.iml" />
       <module fileurl="file://$PROJECT_DIR$/w05-01-uml-class-diagram/w05-01-uml-class-diagram.iml" filepath="$PROJECT_DIR$/w05-01-uml-class-diagram/w05-01-uml-class-diagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/w05-02-misc/w05-02-misc.iml" filepath="$PROJECT_DIR$/w05-02-misc/w05-02-misc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w06-02-unit-testing/w06-02-unit-testing.iml" filepath="$PROJECT_DIR$/w06-02-unit-testing/w06-02-unit-testing.iml" />
     </modules>
   </component>
 </project>
