@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/w05-01-uml-class-diagram/w05-01-uml-class-diagram.iml" filepath="$PROJECT_DIR$/w05-01-uml-class-diagram/w05-01-uml-class-diagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/w05-02-misc/w05-02-misc.iml" filepath="$PROJECT_DIR$/w05-02-misc/w05-02-misc.iml" />
       <module fileurl="file://$PROJECT_DIR$/w06-02-unit-testing/w06-02-unit-testing.iml" filepath="$PROJECT_DIR$/w06-02-unit-testing/w06-02-unit-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w08-01-singleton/w08-01-singleton.iml" filepath="$PROJECT_DIR$/w08-01-singleton/w08-01-singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w08-02-factory/w08-02-factory.iml" filepath="$PROJECT_DIR$/w08-02-factory/w08-02-factory.iml" />
     </modules>
   </component>
 </project>
