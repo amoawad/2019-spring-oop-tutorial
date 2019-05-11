@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/w09-02-memento/w09-02-memento.iml" filepath="$PROJECT_DIR$/w09-02-memento/w09-02-memento.iml" />
       <module fileurl="file://$PROJECT_DIR$/w10-01-observer/w10-01-observer.iml" filepath="$PROJECT_DIR$/w10-01-observer/w10-01-observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/w10-02-state/w10-02-state.iml" filepath="$PROJECT_DIR$/w10-02-state/w10-02-state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w11-01-adapter/w11-01-adapter.iml" filepath="$PROJECT_DIR$/w11-01-adapter/w11-01-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w11-02-decorator/w11-02-decorator.iml" filepath="$PROJECT_DIR$/w11-02-decorator/w11-02-decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/zz-02-game-development/zz-02-game-development.iml" filepath="$PROJECT_DIR$/zz-02-game-development/zz-02-game-development.iml" />
     </modules>
   </component>
